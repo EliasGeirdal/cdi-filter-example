@@ -1,0 +1,52 @@
+2021-09-20 14:17:57,229 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[9400] INFO  [io.quarkus] (main) code-with-quarkus 1.0.0-SNAPSHOT on JVM (powered by Quarkus 2.2.3.Final) started in 1.043s. Listening on: http://0.0.0.0:8090
+2021-09-20 14:17:57,229 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[9400] INFO  [io.quarkus] (main) Profile prod activated. 
+2021-09-20 14:17:57,239 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[9400] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, resteasy-jackson, smallrye-context-propagation]
+2021-09-20 14:19:13,131 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[9400] INFO  [io.quarkus] (Shutdown thread) code-with-quarkus stopped in 0.029s
+2021-09-22 11:34:07,682 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[14412] INFO  [io.quarkus] (main) code-with-quarkus 1.0.0-SNAPSHOT on JVM (powered by Quarkus 2.2.3.Final) started in 1.146s. Listening on: http://0.0.0.0:8090
+2021-09-22 11:34:07,735 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[14412] INFO  [io.quarkus] (main) Profile prod activated. 
+2021-09-22 11:34:07,744 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[14412] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, resteasy-jackson, smallrye-context-propagation]
+2021-09-22 11:36:31,681 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[14412] INFO  [io.quarkus] (Shutdown thread) code-with-quarkus stopped in 0.042s
+2021-09-22 11:38:21,032 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[5104] INFO  [io.quarkus] (main) code-with-quarkus 1.0.0-SNAPSHOT on JVM (powered by Quarkus 2.2.3.Final) started in 1.435s. Listening on: http://0.0.0.0:8090
+2021-09-22 11:38:21,040 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[5104] INFO  [io.quarkus] (main) Profile prod activated. 
+2021-09-22 11:38:21,040 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[5104] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, resteasy-jackson, smallrye-context-propagation]
+2021-09-22 11:38:37,157 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[5104] INFO  [org.acm.res.CarResource] (executor-thread-0) calling getCArs
+2021-09-22 11:38:48,327 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[5104] INFO  [org.acm.res.CarResource] (executor-thread-0) calling getCArs
+2021-09-22 11:38:56,427 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[5104] INFO  [org.acm.res.CarResource] (executor-thread-0) calling getCArs
+2021-09-22 11:56:10,904 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[5104] INFO  [org.acm.res.CarResource] (executor-thread-0) calling getCArs
+2021-09-22 11:56:20,775 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[5104] INFO  [org.acm.res.CarResource] (executor-thread-0) calling getCArs
+2021-09-22 21:53:29,354 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[5104] INFO  [io.quarkus] (Shutdown thread) code-with-quarkus stopped in 0.066s
+2021-11-10 10:35:40,929 desktop-j361t3v build/quarkus-app/quarkus-run.jar[14960] INFO  [io.quarkus] (main) code-with-quarkus 1.0.0-SNAPSHOT on JVM (powered by Quarkus 2.2.3.Final) started in 2.172s. Listening on: http://0.0.0.0:8090
+2021-11-10 10:35:40,939 desktop-j361t3v build/quarkus-app/quarkus-run.jar[14960] INFO  [io.quarkus] (main) Profile prod activated. 
+2021-11-10 10:35:40,940 desktop-j361t3v build/quarkus-app/quarkus-run.jar[14960] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, resteasy-jackson, smallrye-context-propagation]
+2021-11-10 10:37:14,321 desktop-j361t3v build/quarkus-app/quarkus-run.jar[14960] INFO  [io.quarkus] (Shutdown thread) code-with-quarkus stopped in 0.039s
+2021-11-10 10:37:57,770 desktop-j361t3v build/quarkus-app/quarkus-run.jar[15764] INFO  [io.quarkus] (main) code-with-quarkus 1.0.0-SNAPSHOT on JVM (powered by Quarkus 2.2.3.Final) started in 2.211s. Listening on: http://0.0.0.0:8090
+2021-11-10 10:37:57,778 desktop-j361t3v build/quarkus-app/quarkus-run.jar[15764] INFO  [io.quarkus] (main) Profile prod activated. 
+2021-11-10 10:37:57,779 desktop-j361t3v build/quarkus-app/quarkus-run.jar[15764] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, resteasy-jackson, smallrye-context-propagation]
+2021-11-10 10:38:05,730 desktop-j361t3v build/quarkus-app/quarkus-run.jar[15764] INFO  [org.acm.res.fil.LogFilter] (executor-thread-0) Request: 
+Method: POST
+Header: [content-length=59,content-type=application/json,HOST=localhost:8090,message-type=sms,traceid=hest]
+content: io.quarkus.vertx.http.runtime.VertxInputStream@2b8d7f84
+
+
+2021-11-10 10:38:05,756 desktop-j361t3v build/quarkus-app/quarkus-run.jar[15764] INFO  [org.acm.res.fil.LogFilter] (executor-thread-0) Response: 
+Status: 204
+Header: []
+content: io.quarkus.resteasy.runtime.standalone.VertxOutputStream@2cfdd83a
+
+
+2021-11-10 10:40:35,297 desktop-j361t3v build/quarkus-app/quarkus-run.jar[15764] INFO  [io.quarkus] (Shutdown thread) code-with-quarkus stopped in 0.117s
+2021-11-10 10:43:11,733 desktop-j361t3v build/quarkus-app/quarkus-run.jar[15624] INFO  [io.quarkus] (main) code-with-quarkus 1.0.0-SNAPSHOT on JVM (powered by Quarkus 2.2.3.Final) started in 2.179s. Listening on: http://0.0.0.0:8090
+2021-11-10 10:43:11,749 desktop-j361t3v build/quarkus-app/quarkus-run.jar[15624] INFO  [io.quarkus] (main) Profile prod activated. 
+2021-11-10 10:43:11,750 desktop-j361t3v build/quarkus-app/quarkus-run.jar[15624] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, resteasy-jackson, smallrye-context-propagation]
+2021-11-10 10:43:16,142 desktop-j361t3v build/quarkus-app/quarkus-run.jar[15624] INFO  [org.acm.res.fil.LogFilter] (executor-thread-0) Request: 
+Method: POST
+Header: [content-length=59,content-type=application/json,HOST=localhost:8090,message-type=sms,traceid=hest]
+content: 
+
+
+2021-11-10 10:43:16,155 desktop-j361t3v build/quarkus-app/quarkus-run.jar[15624] INFO  [org.acm.res.fil.LogFilter] (executor-thread-0) Response: 
+Status: 204
+Header: []
+
+
+2021-11-10 10:43:45,840 desktop-j361t3v build/quarkus-app/quarkus-run.jar[15624] INFO  [io.quarkus] (Shutdown thread) code-with-quarkus stopped in 0.084s
